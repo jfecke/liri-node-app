@@ -45,7 +45,7 @@ if (input == "concert-this") {
             } else{
                 song = song + stuff[i] + " "
             }
-    }
+        }   
     }
     spotify.search({ type: 'track', query: song, market: "US" }, function(err, data) {
         if (err) {
@@ -54,11 +54,32 @@ if (input == "concert-this") {
         console.log(data.tracks.items[0].album.artists);
     })
 } else if (input == "movie-this") {
-    var movie = process.argv[3]
-    var url = "https://www.omdbapi.com/?t="+movie+"&y=&plot=short&apikey=trilogy";
+    if (typeof(process.argv[3]) == "undefined") {
+        var movie = "Mr.+Nobody"
+    } else {
+        var stuff = subject.slice(3, subject.length)
+        var movie = ""
+        for (var i in stuff){
+            if (i == stuff.length-1) {
+                movie = movie + stuff[i]
+            } else{
+                movie = movie + stuff[i] + " "
+            }
+        }   
+    }
+    var url = "https://www.omdbapi.com/?t="+movie+"&plot=short&apikey=trilogy";
     request(url, function(error, response, body) {
         if (!error && response.statusCode === 200) {
-            console.log(body)
+            var results = JSON.parse(body);
+            console.log("Title: "+results.Title);
+            console.log("Year: "+results.Year);
+            console.log("IMDB Rating: "+results.Ratings[0].Value);
+            console.log("Rotten Tomatoes Score: "+results.Ratings[1].Value);
+            console.log("Country: "+results.Country);
+            console.log("Language: "+results.Language);
+            console.log("Plot: "+results.Plot);
+            console.log("Actors: "+results.Actors);
+
         } else{
             
         }
