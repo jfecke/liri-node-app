@@ -3,12 +3,13 @@ var Spotify = require('node-spotify-api');
 var keys = require("./key.js")
 var fs = require("fs");
 var request = require("request");
+var moment = require('moment');
 var spotify = new Spotify(keys.spotify);
 var input = process.argv[2];
 var subject = process.argv;
 
+
 var moviethis = function(movie) {
-    console.log(movie)
     var url = "https://www.omdbapi.com/?t="+movie+"&plot=short&apikey=trilogy";
     request(url, function(error, response, body) {
         if (!error && response.statusCode === 200) {
@@ -25,7 +26,7 @@ var moviethis = function(movie) {
             var text = "movie-this " + movie + "\r\n" + "Title: "+results.Title + "\r\n" + "Year: "+results.Year +"\r\n" 
             + "IMDB Rating: "+results.Ratings[0].Value + "\r\n" + "Rotten Tomatoes Score: "+results.Ratings[1].Value + "\r\n" +
             "Country: "+results.Country + "\r\n" + "Language: "+results.Language + "\r\n" + "Plot: "+results.Plot + "\r\n" +
-            "Actors: "+results.Actors + "\r\n"
+            "Actors: "+results.Actors + "\r\n" + "--------------------------------------------" + "\r\n"
             appendthis(text);
         } else{
             
@@ -43,10 +44,12 @@ var artistthis = function(artist) {
                 console.log("---------------")
                 console.log(results[i].venue.name);
                 console.log(results[i].venue.city);
-                console.log(results[i].datetime);
+                var time = moment(results[i].datetime).format("MM/DD/YYYY");
+                console.log(time)
+
                 text += "---------------\r\n" + results[i].venue.name + "\r\n" + results[i].venue.city + "\r\n" + results[i].datetime + "\r\n"
             }
-            text += "\r\n"
+            text += "\r\n" + "-------------------------------" + "\r\n"
             appendthis(text)
         } else{
             
@@ -55,11 +58,11 @@ var artistthis = function(artist) {
 }
 
 var spotifythis = function(song) {
-    console.log(song);
     spotify.search({ type: 'track', query: song, market: "US" }, function(err, data) {
         if (err) {
           return console.log('Error occurred: ' + err);
         }
+        var textResult = "spotify-this-song " + song + "\r\n";
         for (var j in data.tracks.items)    {
             var artists_arr = data.tracks.items[j].artists
             var artists = "Artists: "
@@ -72,11 +75,18 @@ var spotifythis = function(song) {
             }
             var brk = "---------------------\r\n";
             var title = "Song: " + data.tracks.items[j].name;
-            var link = "Link: " + data.tracks.items[j].href;
+            if (data.tracks.items[j].preview_url == null) {
+                var link = "No Preview Link Available"
+            } else {
+                var link = "Link: " + data.tracks.items[j].preview_url;
+            }
             var album = "Album: " + data.tracks.items[j].album.name
             var text = brk + artists + "\r\n" + title + "\r\n" + album + "\r\n" + link;
             console.log(text);
+            textResult += text + "\r\n";
         }
+        textResult += "-----------------------------------" + "\r\n";
+        appendthis(textResult);
     })
 }
 

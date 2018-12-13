@@ -1,4 +1,5 @@
-concert-this Maroon%205---------------
+﻿concert-this Maroon%205
+---------------
 Mandalay Bay Events Center
 Las Vegas
 2018-12-30T19:00:48
@@ -71,3 +72,303 @@ AccorHotels Arena
 Paris
 2019-06-11T19:00:06
 
+-------------------------------
+spotify-this-song thunderstruck
+---------------------
+Artists: AC/DC
+Song: Thunderstruck
+Album: The Razors Edge
+Link: https://p.scdn.co/mp3-preview/3885f542871846183fefbd009577c95f5f46b0af?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: AC/DC
+Song: Thunderstruck
+Album: Iron Man 2
+Link: https://p.scdn.co/mp3-preview/2d9544a444030dbf6f506c4c9bd5ae5708bc59f8?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: 2CELLOS
+Song: Thunderstruck
+Album: Celloverse
+Link: https://p.scdn.co/mp3-preview/64fde2b28267c3303bf800fe61016e0a239d2824?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Owl City, Sarah Russell
+Song: Thunderstruck
+Album: Mobile Orchestra
+No Preview Link Available
+---------------------
+Artists: AC/DC
+Song: Thunderstruck - Live
+Album: Live
+Link: https://p.scdn.co/mp3-preview/f610e4a673c9531c11a6014a10d12b45043da43f?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Steve ´n´ Seagulls
+Song: Thunderstruck
+Album: Farm Machine
+No Preview Link Available
+---------------------
+Artists: AC/DC
+Song: Thunderstruck - Live at River Plate
+Album: Live at River Plate
+Link: https://p.scdn.co/mp3-preview/85b09339b584e8493b7a0b48086e9c68be4502d2?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: 2CELLOS
+Song: Thunderstruck (Intro)
+Album: Celloverse
+Link: https://p.scdn.co/mp3-preview/9a9604e3fa7dbf19b28c5982e2ab4d4b64576646?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: The Fanatics
+Song: Thunderstruck
+Album: Ultimate Sports Anthems - Stadium Classics
+Link: https://p.scdn.co/mp3-preview/ef53b16594d0cc06ccb4617ed2207fd6eba25fd2?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: AC/DC
+Song: Thunderstruck - Live
+Album: Live (Collector's Edition)
+Link: https://p.scdn.co/mp3-preview/deca3d726f815e1801fad12e3e99c067c3e79a89?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Luca Stricagnoli
+Song: Thunderstruck
+Album: Luca Stricagnoli
+Link: https://p.scdn.co/mp3-preview/52ac40b35c312c6c2b162b6bc0498809287aeea2?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Metalachi
+Song: Thunderstruck
+Album: Tres
+Link: https://p.scdn.co/mp3-preview/8dff79c33f16451741d796a843323276e781935a?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Rockabye Baby!
+Song: Thunderstruck
+Album: Lullaby Renditions of Ac/Dc
+Link: https://p.scdn.co/mp3-preview/2acdde09645738d906f5c803695dfc89c8a43d34?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: DJ Crazy J Rodriguez
+Song: Thunderstruck
+Album: Club Rock Party Mix
+Link: https://p.scdn.co/mp3-preview/67b88fc05a6ef8f9e52407e8f9ecde8f1b9a2287?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: David Garrett
+Song: Thunderstruck
+Album: David Garrett
+No Preview Link Available
+---------------------
+Artists: Chuk Don Var
+Song: Tell me yes
+Album: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/30a2b41d94bc147fd566a2a1ce7ee5eebc73e894?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Matt Dubb
+Song: Thunderstruck
+Album: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/618dd1a834c66cabe54dcdac1c9ff13a1df81935?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Chuk Don Var
+Song: Frantic
+Album: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/ef88192bb71e7eacb3af895e4177e63f8e702642?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Bullhorns
+Song: Thunderstruck
+Album: Batang (Feat. James Morrison)
+Link: https://p.scdn.co/mp3-preview/c42d56d166917b2ce6cb7775369114b6b7f51103?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Chuk Don Var
+Song: Memory emptied
+Album: Thunderstruck
+Link: https://p.scdn.co/mp3-preview/7ceb4252f848bf46b0f0beda82e1ee7ee03c9b59?cid=757e9685e39347bdb63c49e409f0315f
+-----------------------------------
+movie-this gladiator
+Title: Gladiator
+Year: 2000
+IMDB Rating: 8.5/10
+Rotten Tomatoes Score: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+--------------------------------------------
+spotify-this-song I Want it That Way
+---------------------
+Artists: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+Link: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Backstreet Boys
+Song: I Want It That Way
+Album: Millennium
+Link: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Anthem Lights
+Song: I Want It That Way
+Album: Covers Part IV
+Link: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Tyler and Mark
+Song: I Want It That Way
+Album: Beautiful Dreams
+Link: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Dynamite Boy
+Song: I Want It That Way
+Album: Punk Goes Pop
+No Preview Link Available
+---------------------
+Artists: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Link: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Backstreet Boys
+Song: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Link: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Backstreet Boys
+Song: I Want It That Way
+Album: NKOTBSB
+Link: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Manuel Costa
+Song: I Want It That Way
+Album: I Want It That Way
+Link: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Boyce Avenue
+Song: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Link: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Glee Cast
+Song: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Link: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Steel Panther
+Song: I Want It That Way
+Album: I Want It That Way
+No Preview Link Available
+---------------------
+Artists: MaxLife
+Song: I Want It That Way
+Album: I Want It That Way
+Link: https://p.scdn.co/mp3-preview/a6c2734a24cf016a7f884c3f731e64371ba32555?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song: I Want It That Way
+Album: Selfies on Kodachrome
+Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: #90s Update
+Song: I Want It That Way
+Album: #90s Update
+Link: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Scary Pockets, Casey Abrams
+Song: I Want It That Way
+Album: Nu Funk
+Link: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: "Weird Al" Yankovic
+Song: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Link: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Backstreet Boys
+Song: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Link: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Landon Austin & Julia Sheer
+Song: I Want It That Way
+Album: I Want It That Way
+Link: https://p.scdn.co/mp3-preview/e777be5446dc3df34abc2eaec241edb5a590976c?cid=757e9685e39347bdb63c49e409f0315f
+---------------------
+Artists: Scott Bradlee's Postmodern Jukebox, Shoshana Bean
+Song: I Want It That Way
+Album: PMJ Is For Lovers: The Love Song Collection
+Link: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=757e9685e39347bdb63c49e409f0315f
+-----------------------------------
+movie-this Gladiator
+Title: Gladiator
+Year: 2000
+IMDB Rating: 8.5/10
+Rotten Tomatoes Score: 77%
+Country: USA, UK
+Language: English
+Plot: A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.
+Actors: Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed
+--------------------------------------------
+concert-this Maroon 5
+---------------
+Mandalay Bay Events Center
+Las Vegas
+2018-12-30T19:00:48
+---------------
+Mandalay Bay Events Center
+Las Vegas
+2018-12-31T19:00:28
+---------------
+Brisbane Entertainment Centre
+Brisbane
+2019-02-19T19:00:50
+---------------
+Qudos Bank Arena
+Sydney
+2019-02-21T19:00:51
+---------------
+Rod Laver Arena
+Melbourne
+2019-02-22T19:00:13
+---------------
+Tokyo Dome
+Tokyo
+2019-02-25T19:00:23
+---------------
+Gocheok Sky Dome
+Seoul
+2019-02-27T19:00:33
+---------------
+TBA
+Kaohsiung City
+2019-03-01T19:00:36
+---------------
+TBA
+Macau
+2019-03-03T19:00:44
+---------------
+SM Mall Of Asia
+Manila
+2019-03-05T19:00:07
+---------------
+NATIONAL STADIUM
+Singapore
+2019-03-07T19:00:41
+---------------
+CHALLENGER HALL
+Bangkok
+2019-03-09T19:00:34
+---------------
+Mollenpark
+Aalborg
+2019-06-01T19:00:44
+---------------
+Lanxess Arena
+Cologne
+2019-06-03T19:00:11
+---------------
+O2 ARENA
+Prague
+2019-06-05T19:00:34
+---------------
+Tauron Arena
+Kraków
+2019-06-06T19:00:29
+---------------
+Ziggo Dome
+Amsterdam
+2019-06-10T19:00:09
+---------------
+AccorHotels Arena
+Paris
+2019-06-11T19:00:06
+
+-------------------------------
